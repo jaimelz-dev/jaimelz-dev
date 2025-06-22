@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jaime Lozano
+# ¡Hola! Soy Jaime Lozano
 
 Soy Técnico Superior en **Desarrollo de Aplicaciones Web (DAW Bilingüe)**, con formación completa en tecnologías modernas del entorno web y una fuerte motivación por seguir creciendo como desarrollador profesional.
 
