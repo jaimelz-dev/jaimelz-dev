@@ -11,8 +11,8 @@ He completado proyectos y formación práctica en desarrollo frontend y backend,
 | Frontend                   | Backend & Base de Datos       | Herramientas & Otros        |
 |----------------------------|-------------------------------|-----------------------------|
 | HTML5 · CSS3 · Bootstrap   | Node.js · Express · JWT · PHP | Git · GitHub · VSCode       |
-| JavaScript · TypeScript    | MongoDB · MySQL · Symfony     | Linux · Windows · CLI       |
-| React · Angular            | APIs RESTful                  | Redes · Soporte técnico     |
+| JavaScript · TypeScript    | MongoDB · MySQL               | Linux · Windows · CLI       |
+| React · Angular            | Symfony · APIs RESTful        | Redes · Soporte técnico     |
 
 ---
 
