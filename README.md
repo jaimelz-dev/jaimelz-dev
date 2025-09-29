@@ -8,11 +8,11 @@ He completado proyectos y formación práctica en desarrollo frontend y backend,
 
 ## 🛠️ Tecnologías que domino
 
-| Frontend                    | Backend & Base de Datos       | Herramientas & Otros       |
+| Frontend                   | Backend & Base de Datos       | Herramientas & Otros        |
 |----------------------------|-------------------------------|-----------------------------|
-| HTML5 · CSS3 · Bootstrap   | Node.js · Express · JWT       | Git · GitHub · VSCode       |
-| JavaScript · TypeScript    | MongoDB (básico) · MySQL      | Linux · Windows · CLI       |
-| Angular                    | APIs RESTful                  | Redes · Soporte técnico     |
+| HTML5 · CSS3 · Bootstrap   | Node.js · Express · JWT · PHP | Git · GitHub · VSCode       |
+| JavaScript · TypeScript    | MongoDB · MySQL · Symfony     | Linux · Windows · CLI       |
+| React · Angular            | APIs RESTful                  | Redes · Soporte técnico     |
 
 ---
 
